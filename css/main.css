@@ -44,6 +44,8 @@ h1.page-title {
 
 p.meta {
   font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 2em;
 }
 
 div.nav {
