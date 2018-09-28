@@ -30,11 +30,13 @@ a:hover {
 a.post-title {
   color: #F08080;
   text-decoration: none;
+  font-family: 'Roboto', sans-serif;
 }
 
 a.post-title:hover {
   text-decoration: none;
   color: #66CDAA;
+  font-family: 'Roboto', sans-serif;
 }
 
 p.site-title {
@@ -52,7 +54,7 @@ h1.page-title {
 span.datestring {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 1em;
 }
 
 div.nav {
