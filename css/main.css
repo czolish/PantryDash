@@ -28,7 +28,8 @@ a:hover {
 }
 
 p.site-title {
-  
+  font-size: 5em;
+  color: #999;
 }
 
 container {
