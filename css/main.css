@@ -30,6 +30,8 @@ a:hover {
 p.site-title {
   font-size: 5em;
   color: #999;
+  margin: auto;
+  text-align: center;
 }
 
 container {
@@ -42,6 +44,10 @@ h1.page-title {
 
 p.meta {
 
+}
+
+div.nav {
+  text-align: center;
 }
 
 div.post {
