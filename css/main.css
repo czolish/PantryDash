@@ -27,15 +27,21 @@ a:hover {
   color: #66CDAA;
 }
 
+a.post-title {
+  color: #F08080;
+  text-decoration: none;
+}
+
+a.post-title:hover {
+  text-decoration: none;
+  color: #66CDAA;
+}
+
 p.site-title {
   font-size: 5em;
   color: #999;
   margin: auto;
   text-align: center;
-}
-
-container {
-  
 }
 
 h1.page-title {
@@ -46,22 +52,10 @@ h1.page-title {
 span.datestring {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 1.5em;
 }
 
 div.nav {
   text-align: center;
   margin: auto;
-}
-
-div.post {
-
-}
-
-div.post-footer {
-
-}
-
-span.datestring {
-
 }
