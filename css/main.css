@@ -6,17 +6,59 @@ body {
 nav ul, footer ul {
   padding: 0px;
   list-style: none;
-  font-weight: bold;
+  font-family: 'Lobster', cursive;
 }
 
 nav ul li, footer ul, li {
   display: inline;
   margin-right: 20px;
-  font-size: 1.5em;
+  font-size: 2em;
   list-style: none;
+  font-family: 'Lobster', cursive;
 }
 
 a {
   text-decoration: none;
+  color: #F08080;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #66CDAA;
+}
+
+a.post-title {
+  color: #F08080;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+a.post-title:hover {
+  text-decoration: none;
+  color: #66CDAA;
+  font-family: 'Roboto', sans-serif;
+}
+
+p.site-title {
+  font-size: 5em;
   color: #999;
+  margin: auto;
+  text-align: center;
+}
+
+h1.page-title {
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+  padding: 20px;
+}
+
+span.datestring {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+div.nav {
+  text-align: center;
+  margin: auto;
 }
