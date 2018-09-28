@@ -12,17 +12,17 @@ nav ul, footer ul {
 nav ul li, footer ul, li {
   display: inline;
   margin-right: 20px;
-  font-size: 1.5em;
+  font-size: 2em;
   list-style: none;
   font-family: 'Lobster', cursive;
 }
 
 a {
   text-decoration: none;
-  color: #F6546A;
+  color: #F08080;
 }
 
 a:hover {
-  text-decoration: underline;
-  color: #FFF68F;
+  text-decoration: none;
+  color: #66CDAA;
 }
