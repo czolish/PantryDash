@@ -52,6 +52,10 @@ p.site-title {
   text-align: center;
 }
 
+p.meta {
+  text-align: center;
+}
+
 h1.page-title {
   font-family: 'Lobster', cursive;
   font-size: 2.5em;
@@ -70,3 +74,8 @@ div.nav {
   margin: auto;
 }
 
+div.post {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.5em;
+}
