@@ -54,6 +54,7 @@ p.site-title {
 
 p.meta {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1.page-title {
@@ -77,5 +78,5 @@ div.nav {
 div.post {
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  font-size: 0.5em;
+  font-size: 1em;
 }
