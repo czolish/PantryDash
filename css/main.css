@@ -60,7 +60,7 @@ p.meta {
 h1.page-title {
   font-family: 'Lobster', cursive;
   font-size: 2em;
-  font-color: #66CDAA;
+  color: #66CDAA;
   padding: 20px;
   text-align: center;
 }
@@ -69,7 +69,7 @@ span.datestring {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 0.75em;
-  font-color: #66CDAA;
+  color: #66CDAA;
 }
 
 div.nav {
@@ -81,5 +81,5 @@ div.post {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
-  font-color: #66CDAA;
+  color: #66CDAA;
 }
