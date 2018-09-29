@@ -17,6 +17,10 @@ nav ul li, footer ul, li {
   font-family: 'Lobster', cursive;
 }
 
+ul.posts {
+  text-align: center;
+}
+
 a {
   text-decoration: none;
   color: #F08080;
@@ -50,6 +54,7 @@ h1.page-title {
   font-family: 'Lobster', cursive;
   font-size: 2.5em;
   padding: 20px;
+  text-align: center;
 }
 
 span.datestring {
@@ -62,3 +67,4 @@ div.nav {
   text-align: center;
   margin: auto;
 }
+
